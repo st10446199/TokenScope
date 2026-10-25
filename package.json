@@ -1,0 +1,13 @@
+{
+  "name": "tokenscope",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Decode token headers and claims locally and inspect time claims without sending data anywhere.",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "license": "MIT"
+}
